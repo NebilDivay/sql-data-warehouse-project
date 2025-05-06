@@ -13,7 +13,7 @@ Paraneters:
 This stored procedure does not accept any parameters or return any values.
 
 Usage Example:
-    EXEC bronz.load_bronze;
+    EXEC bronze.load_bronze;
 ===================================================================================
 */
 
